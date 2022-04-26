@@ -52,7 +52,7 @@
         "jest-google-maps-mock": "^1.0.7",
         "prettier": "2.5.1",
         "react-is": "^17.0.2",
-        "sass": "1.32",
+        "sass": "1.51",
         "sass-loader": "^8.0.2",
         "vue-cli-plugin-vuetify": "^2.4.5",
         "vue-template-compiler": "^2.6.14",
